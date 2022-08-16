@@ -46,4 +46,12 @@ $ bdot_cycle  %採樣時間 (1/Hz)
 
 
 
-@KozakHou, email:kozak20010716@g.ncu.edu.tw
+@Citation{
+
+	Name: KozakHou,
+	email:kozak20010716@g.ncu.edu.tw,
+	Tel : +886 905804898,
+	Institute : National Cnetral University
+
+	}
+
