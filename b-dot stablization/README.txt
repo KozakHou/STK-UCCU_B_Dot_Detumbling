@@ -42,7 +42,7 @@ $ bdot_cycle  %採樣時間 (1/Hz)
 
 
 Simulating Outcomes
-![alt text for screen readers](https://github.com/KozakHou/STK-UCCU_B_Dot_Detumbling/blob/main/b-dot%20stablization/omega_stablization.png)
+![alt text](https://github.com/KozakHou/STK-UCCU_B_Dot_Detumbling/blob/main/b-dot%20stablization/omega_stablization.png)
 
 
 
