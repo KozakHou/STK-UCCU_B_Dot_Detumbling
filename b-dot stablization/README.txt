@@ -41,7 +41,8 @@ $ mtq_thd     %已採用CubeADCS所使用之磁力棒力矩
 $ bdot_cycle  %採樣時間 (1/Hz)
 
 
-
+Simulating Outcomes
+![alt text for screen readers](https://github.com/KozakHou/STK-UCCU_B_Dot_Detumbling/blob/main/b-dot%20stablization/omega_stablization.png "Text to show on mouseover")
 
 
 
