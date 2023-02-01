@@ -18,8 +18,11 @@ Simulate File:
 init_param.m是建構UCCU的參數.m檔，以下內容可再自行更動(客製化)
 
 $ duration   %欲模擬時間長度
+
 $ dt         %數值積分取樣長度 (建議不改)
+
 $ Ib         %此為慣性張量轉為對角矩陣 (愈輸入其他衛星資料，使用 I = eig([Original_Inertia tensor], 'matrix'), 即可做出該衛星之對角慣性矩陣)
+
 $ w0         %此為初始擾動 (a.k.a. Initial Condition)
 
 
